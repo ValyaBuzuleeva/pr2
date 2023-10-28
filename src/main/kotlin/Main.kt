@@ -13,8 +13,8 @@ fun main(args: Array<String>) {
 //3.
     // потому что использовался тип Int, который не выдавал остаток.
 //4.
-    val firstName: String = "Alina"
-    val lastName: String = "Cherkashina"
+    val firstName: String = "ВАЛЯ"
+    val lastName: String = "БУЗУЛЕЕВА"
     //
 //5.
     val fullName: String = firstName + " " + lastName
